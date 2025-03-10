@@ -1,0 +1,18 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode-specific user settings
+xcuserdata/
+*.xcworkspace/
+!default.xcworkspace/
+
+# Xcode derived data (build artifacts)
+DerivedData/
+.idea/
+*.moved-aside
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
